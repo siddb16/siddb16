@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
-**siddb16/siddb16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I’m Siddhant, a B.Tech-M.Tech student specializing in Cyber Security at NFSU.  
 
-Here are some ideas to get you started:
+## My Aim on GitHub
+I aim to:
+- Learn, collaborate, and contribute to cybersecurity and digital forensics projects.
+- Share my own tools, experiments, and research work.
+- Connect with like-minded professionals and students to grow together in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Linux and forensic tools
+- Penetration testing
+- AI/ML applications in cybersecurity
+- Government and defense-related cyber projects
+
+---
+
+Thank you for visiting my profile! 🚀
