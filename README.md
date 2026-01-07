@@ -1,19 +1,22 @@
 # About Me
 
-Hello! 👋 I’m Siddhant, a B.Tech-M.Tech student specializing in Cyber Security at NFSU.  
+Hello I’m Siddhant, B.Tech–M.Tech Cyber Security student at the National Forensic Sciences University (NFSU)  
+> Cybersecurity student exploring Linux, networking, and practical security tooling.
 
-## My Aim on GitHub
-I aim to:
-- Learn, collaborate, and contribute to cybersecurity and digital forensics projects.
-- Share my own tools, experiments, and research work.
-- Connect with like-minded professionals and students to grow together in this field.
+## What I Work On
+- 
 
 ## Interests
 - Linux and forensic tools
-- Penetration testing
+- Linux system analysis
+- Network traffic analysis
+- Security testing fundamentals
+- Secure software practices
 - AI/ML applications in cybersecurity
-- Government and defense-related cyber projects
+
+## Projects & Work (in Progress)
+- 
 
 ---
 
-Thank you for visiting my profile! 🚀
+If you’re working on cybersecurity projects and open to collaboration, feel free to reach out.
